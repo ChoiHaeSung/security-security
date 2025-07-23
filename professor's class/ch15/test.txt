@@ -1,3 +1,0 @@
-GUI코딩시대에는 (Charles Petzold)
-Markup + Code = App
-이 되었다고 생각합니다.
